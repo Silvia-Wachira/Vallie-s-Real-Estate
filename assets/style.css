@@ -100,3 +100,25 @@ body{
     background-color: white;
     margin-left: 300px;
 }
+.choose{
+    list-style-type: none;
+    color: blue;
+    padding: 20px;
+    background-color: white;
+    margin-left: 200px;
+    font-style: Space Grotesk;
+    
+}
+.featured{
+    background-color: white;
+    list-style-type: none;
+    padding: 20px;
+    margin-left: 200px;
+    display: flex;
+    text-align: center;
+}
+.esteemed{
+    text-align: center;
+    margin-left: 200;
+
+}
