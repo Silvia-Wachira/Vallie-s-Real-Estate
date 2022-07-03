@@ -56,6 +56,8 @@ nav ul li{
 }
 body{
     font-family: 'Space Grotesk';
+    padding: 10px;
+    margin: 1px;
 
 
 }
@@ -118,23 +120,35 @@ body{
     text-align: center;
 }
 .esteemed{
-    text-align: center;
-    margin-left: 200;
     font-style: Oleo Script;
-    color: blue;
+    color: white;
+    display: flex;
 
 }
-.alex{
+.Alex{
     list-style-type: none;
     display: flex;
     background-color: white;
     padding: 20px;
     margin-left: 200px;
-    text-align: center;
     font-style: Oleo Script;
-    color: #2549D3;
+    color: black;
 }
 .part{
     background-color: #0F298B;
     display: flex;
+    font-style: Oleo Script;
+
+}
+.properties{
+    text-align: center;
+}
+.Client{
+    text-align: center;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    
 }
