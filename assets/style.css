@@ -50,9 +50,6 @@ nav ul{
     font-weight: bold;
 }
     
-
-
-    
 nav ul li{
     display: inline-block;
     list-style: georgian;
@@ -65,4 +62,41 @@ body{
 .h1{
     font-family: 'Space Grotesk';
     color: #0F298B;
+}
+.button{
+    background-color: #2549D3;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    font-weight: bold;
+}
+.h2{
+    font-family: 'Space Grotesk';
+    color: #2549D3;
+}
+.body .button{
+    background-color: #2549D3;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    font-weight: bold;
+
+}
+.works{
+    text-align: center;
+}
+.find{
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    margin-left: 300px;
 }

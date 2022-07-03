@@ -64,3 +64,39 @@ body{
     font-family: 'Space Grotesk';
     color: #0F298B;
 }
+.h2{
+    color: #2549D3;
+    padding: 5px 15px;
+    float: right;
+
+}
+.body-button{
+    background-color: #2549D3;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    font-weight: bold;
+}
+.h3{
+    color: #0F298B;
+    margin-right: 200px;
+    
+}
+.h4{
+    color: blue;
+    text-align: center;
+}
+.h5{
+    font-family: 'Space Grotesk';
+    font-weight: bold;
+}
+.h6{
+    color: #0F298B;
+}
+.works{
+    text-align: center;
+}
