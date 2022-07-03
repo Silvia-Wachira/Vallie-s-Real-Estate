@@ -134,3 +134,7 @@ body{
     font-style: Oleo Script;
     color: #2549D3;
 }
+.part{
+    background-color: #0F298B;
+    display: flex;
+}
