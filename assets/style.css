@@ -1,44 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@300;700&display=swap');
 
-*{
-    margin:0px;
+* {
+    margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-.logo{
+
+.logo {
     font-size: 30px;
     font-weight: bold;
     letter-spacing: 1.5px;
-    
+
 }
- .logo h1{
-    color:  black;
+
+.logo h1 {
+    color: black;
     font-family: 'Oleo Script';
     font-size: xx-large;
 
 }
-.menu{
+
+.menu {
     display: flex;
     font-size: large;
     justify-content: space-around;
     color: black;
 }
-nav ul{
+
+nav ul {
     float: right;
 
 }
-.nav-links a{
+
+.nav-links a {
     color: black;
     padding: 5px 15px;
 }
+
 .nav {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     color: black;
 }
-.nav .button{
+
+.nav .button {
     background-color: #2549D3;
     border-radius: 10px;
     color: white;
@@ -49,23 +56,84 @@ nav ul{
     margin: 4px 2px;
     font-weight: bold;
 }
-    
-nav ul li{
+
+.section {
+    height: 70vh;
+}
+
+.subsection1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 8rem;
+}
+
+.subsection1contentssuperleft {
+    width: 99%;
+}
+
+.subhsection1contentssuperleft>h2 {
+    font-size: 50px;
+    color: #0F298B;
+    margin-bottom: 2%;
+}
+
+.subsection1contentssuperleft>p {
+    font-size: x-large;
+    width: 99%;
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
+
+.iconz>img {
+    display: 30%;
+    width: 30vw;
+}
+
+.subheading1contentssupperright img {
+    width: 50%;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+
+.iconz {
+    width: 100%;
+    display: flex;
+    height: 10px;
+    align-items: center;
+}
+
+.iconz>button {
+    margin: px;
+    width: 130;
+    color: white;
+    background-color: #2549D3;
+    border-radius: 10px;
+    height: 50px;
+    border: none;
+    font-size: larger;
+    text-transform: capitalize;
+}
+
+nav ul li {
     display: inline-block;
     list-style: georgian;
 }
-body{
+
+body {
     font-family: 'Space Grotesk';
     padding: 10px;
     margin: 1px;
 
 
 }
-.h1{
+
+.h1 {
     font-family: 'Space Grotesk';
     color: #0F298B;
 }
-.button{
+
+.button {
     background-color: #2549D3;
     border-radius: 10px;
     color: white;
@@ -76,11 +144,13 @@ body{
     margin: 4px 2px;
     font-weight: bold;
 }
-.h2{
+
+.h2 {
     font-family: 'Space Grotesk';
     color: #2549D3;
 }
-.body .button{
+
+.body .button {
     background-color: #2549D3;
     border-radius: 10px;
     color: white;
@@ -92,26 +162,32 @@ body{
     font-weight: bold;
 
 }
-.works{
+
+.works {
     text-align: center;
-}
-.find{
-    list-style-type: none;
-    display: flex;
-    padding: 20px;
-    background-color: white;
-    margin-left: 200px;
-}
-.choose{
-    list-style-type: none;
-    color: blue;
-    padding: 20px;
-    background-color: white;
-    margin-left: 200px;
-    font-style: Space Grotesk;
     
 }
-.featured{
+
+findkk {
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    margin-left: 200px;
+}
+
+.choose {
+    display: flex;
+    list-style-type: none;
+    color: blue;
+
+    background-color: white;
+    margin-left: 450px;
+    font-style: Space Grotesk;
+
+}
+
+.featured {
     background-color: white;
     list-style-type: none;
     padding: 20px;
@@ -119,39 +195,68 @@ body{
     display: flex;
     text-align: center;
 }
-.esteemed{
+
+.esteemed {
     font-style: Oleo Script;
     color: white;
     display: flex;
 
 }
-.Alex{
+
+.Alex {
     list-style-type: none;
     display: flex;
     background-color: white;
     padding: 20px;
-    margin-left: 200px;
+    margin-left: 400px;
     font-style: Oleo Script;
     color: black;
 }
-.part{
+
+.part {
     background-color: #0F298B;
     display: flex;
-    font-style: Oleo Script;
+    color: white;
+    font-family: 'Space Grotesk';
+    justify-content: center;
+}
+
+.prop {
+    justify-content: center;
+}
+
+.desc {
+    margin-left: 350px;
+    padding: 50px;
+    
+    
+}
+
+.properties {
+    text-align: center;
+}
+
+.Client {
+    text-align: center;
 
 }
-.properties{
-    text-align: center;
-}
-.Client{
-    text-align: center;
-    
-}
-ul{
+
+ul {
     list-style-type: none;
     display: flex;
-    
+
 }
-.part{
-    margin-inline: ;
+
+.pfjroducts {
+    display: flex;
+    justify-content: center;
+
+}
+
+.products .h3 {
+    color: #0F298B;
+    padding-bottom: 30px;
+}
+.h3-1{
+    align-content: center;
 }
