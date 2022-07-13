@@ -1,6 +1,6 @@
 # Vallie-s-Real-Estate
 # Author
-
+Silvia Wachira
 # Description
 This is a project creating the website of a business called Vallies Real Estate.
 # Technologies Used
@@ -14,7 +14,7 @@ This is a project creating the website of a business called Vallies Real Estate.
 # Live page
 https://moringawachira.github.io/Vallie-s-Real-Estate/
 # License
-MIT License
+
 
 Copyright (c) 2022 MoringaWachira
 
