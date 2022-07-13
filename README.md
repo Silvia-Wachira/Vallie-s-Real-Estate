@@ -12,6 +12,7 @@ This is a project creating the website of a business called Vallies Real Estate.
 * cd Vallies real estate-website<br>
 * Open index.html file on your browser
 # Live page
+https://moringawachira.github.io/Vallie-s-Real-Estate/
 # License
 MIT License
 
