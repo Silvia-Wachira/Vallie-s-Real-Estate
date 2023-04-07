@@ -7,7 +7,7 @@ This is a project creating the website of a business called Vallies Real Estate.
 *HTML<br>
 *CSS
 # Set Up Instructions
-* Open the terminal command line[ctrl+alt+t]<br>
+* Open terminal command line[ctrl+alt+t]<br>
 * Clone the repository<br>
 * cd Vallies real estate-website<br>
 * Open index.html file on your browser
