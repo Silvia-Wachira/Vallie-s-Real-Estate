@@ -1,6 +1,6 @@
 # Vallie-s-Real-Estate
 # Author
-Silvia  Wachira
+Silvia N Wachira
 # Description
 This is a project creating the website of a business called Vallies Real Estate.
 # Technologies Used
