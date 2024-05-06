@@ -5,7 +5,7 @@ Silvia Wachira
 This is a project creating the website of a business called Vallies Real Estate.
 # Technologies Used
 *HTML<br>
-*CSS
+*CSS 
 # Set Up Instructions
 * Open terminal command line[ctrl+alt+t]<br>
 * Clone the repository<br>
